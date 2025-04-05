@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------
-👋 Hi, I’m @Lif28
+👋 Hi, I’m @Lif28, member of BlacKat.
 
 👀 I’m interested in cybersecurity, coding (Python, C, C++, I only know python, html and css for now), and IT in general.
 
