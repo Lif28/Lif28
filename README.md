@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------
-👋 Hi, I’m @Lif28, a member of BlacKat Corporation.
+👋 Hi, I’m @Lif28, member of BlacKat Corporation.
 
 👀 I’m interested in cybersecurity, coding (Python, C, C++), and IT in general. I currently know Python, HTML, and CSS.
 
@@ -9,5 +9,5 @@
 
 📫 You can reach me at IDK5577@proton.me
 
-
+🐈‍⬛ Visit BlacKat's website: BlacKatOfficial.github.io
 --------------------------------------------------------------------------------------------------------------------------------------------------
